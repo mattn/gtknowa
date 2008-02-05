@@ -1,0 +1,64 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2007-05-31 16:28+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../gtknowa.c:733
+msgid "no server response"
+msgstr ""
+
+#: ../gtknowa.c:742 ../gtknowa.c:752 ../gtknowa.c:775 ../gtknowa.c:782
+#: ../gtknowa.c:787 ../gtknowa.c:1040
+msgid "unknown server response"
+msgstr ""
+
+#: ../gtknowa.c:943 ../gtknowa.c:1078
+msgid "updating statuses..."
+msgstr ""
+
+#: ../gtknowa.c:1075
+msgid "posting status..."
+msgstr ""
+
+#: ../gtknowa.c:1124
+msgid " Login"
+msgstr ""
+
+#. mail
+#: ../gtknowa.c:1132
+msgid "_Mail:"
+msgstr ""
+
+#. pass
+#: ../gtknowa.c:1151
+msgid "_Password:"
+msgstr ""
+
+#: ../gtknowa.c:1587 ../gtknowa.c:1588
+msgid "go home"
+msgstr ""
+
+#: ../gtknowa.c:1599 ../gtknowa.c:1600
+msgid "reload statuses"
+msgstr ""
+
+#: ../gtknowa.c:1611 ../gtknowa.c:1612
+msgid "post status"
+msgstr ""
+
+#: ../gtknowa.c:1623 ../gtknowa.c:1624
+msgid "what are you doing?"
+msgstr ""

@@ -1,0 +1,63 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2007 the GtkNowa's copyright holder
+# This file is distributed under the same license as the GtkNowa package.
+# mattn <mattn.jp at gmail.com>, 2007.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: 0.0.5\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2007-05-31 16:28+0900\n"
+"PO-Revision-Date: 2007-05-15 20:07+0900\n"
+"Last-Translator: mattn <mattn.jp at gmail.com>\n"
+"Language-Team: mattn <mattn.jp at gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../gtknowa.c:733
+msgid "no server response"
+msgstr "サーバからの応答がありません"
+
+#: ../gtknowa.c:742 ../gtknowa.c:752 ../gtknowa.c:775 ../gtknowa.c:782
+#: ../gtknowa.c:787 ../gtknowa.c:1040
+msgid "unknown server response"
+msgstr "サーバからの応答が不正です"
+
+#: ../gtknowa.c:943 ../gtknowa.c:1078
+msgid "updating statuses..."
+msgstr "ステータス更新中..."
+
+#: ../gtknowa.c:1075
+msgid "posting status..."
+msgstr "ステータス送信中..."
+
+#: ../gtknowa.c:1124
+msgid " Login"
+msgstr " ログイン"
+
+#. mail
+#: ../gtknowa.c:1132
+msgid "_Mail:"
+msgstr "メール(_M):"
+
+#. pass
+#: ../gtknowa.c:1151
+msgid "_Password:"
+msgstr "パスワード(_P):"
+
+#: ../gtknowa.c:1587 ../gtknowa.c:1588
+msgid "go home"
+msgstr "ホーム"
+
+#: ../gtknowa.c:1599 ../gtknowa.c:1600
+msgid "reload statuses"
+msgstr "リロード"
+
+#: ../gtknowa.c:1611 ../gtknowa.c:1612
+msgid "post status"
+msgstr "ステータス送信"
+
+#: ../gtknowa.c:1623 ../gtknowa.c:1624
+msgid "what are you doing?"
+msgstr "今なにしてる？"
